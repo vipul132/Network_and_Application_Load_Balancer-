@@ -1,6 +1,6 @@
 # AWS Application Load Balancer (ALB) vs Network Load Balancer (NLB) – Hands-on Project
 ## 🏗 Architecture Overview
-![Architecture](https://github.com/vipul132/Network_and_Application_Load_Balancer-/blob/master/1.jpg))
+![Architecture](https://github.com/vipul132/Network_and_Application_Load_Balancer-/blob/master/1.jpg)
 ## 📌 Project Overview
 This project demonstrates a **hands-on implementation and comparison of AWS Application Load Balancer (ALB) and Network Load Balancer (NLB)**.  
 The goal of this project is to understand the **exact differences, working layers, performance behavior, and real-world use cases** of both load balancers through practical testing.
@@ -66,7 +66,7 @@ Along with the implementation, a **short video walkthrough** has been created to
 | Latency | Moderate | Ultra-low |
 | Use Case | Web apps, APIs | High-performance apps |
 
-![Architecture](https://github.com/vipul132/Network_and_Application_Load_Balancer-/blob/master/2.jpg))
+![Architecture](https://github.com/vipul132/Network_and_Application_Load_Balancer-/blob/master/2.jpg)
 ---
 
 ## 🎥 Video Walkthrough
@@ -92,6 +92,7 @@ A short video explaining the **complete setup and practical comparison** is avai
 - Performance testing using stress tools
 
 ---
+
 
 ## 👨‍💻 Author
 **Vipul Pandey**  
